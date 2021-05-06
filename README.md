@@ -1,4 +1,4 @@
-# :blush: Sejam Muito Bem-Vindos
+#  Bem-Vindos
 
 Esse site foi desenvolvido para se explorar as ferramentas dessa plataforma.
 
@@ -24,4 +24,4 @@ titulos1<h1>
   titulos3<h3>
   e assim por diante<h4>
   
-  ![cachorro](https://github.com/Debora-hahn/teste/blob/main/cachorro.jpeg) Personalização
+  
