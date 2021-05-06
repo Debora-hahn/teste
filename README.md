@@ -2,7 +2,7 @@
 
 Esse site foi desenvolvido para se explorar as ferramentas dessa plataforma.
 
-![legenda](https://github.com/Debora-hahn/teste/blob/main/674ee7be620d71f31fc235b6b67a68a2.jpg)
+![legenda](https://github.com/Debora-hahn/teste/blob/770f05c322aaa637429d2e96b871428f365936e2/eu.jpeg)
 
 * Já conseguimos até agora criar o site.
 * Estamos se aprofundando sobre as ferramentas.
