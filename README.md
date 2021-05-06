@@ -2,7 +2,7 @@
 
 Esse site foi desenvolvido para se explorar as ferramentas dessa plataforma.
 
-![Image of Yaktocat](https://github.com/Debora-hahn/teste/blob/main/eu.jpeg)
+![Image of Yaktocat](https://github.com/Debora-hahn/teste/blob/main/674ee7be620d71f31fc235b6b67a68a2.jpg?raw=true)
 
 
 * Já conseguimos até agora criar o site.
